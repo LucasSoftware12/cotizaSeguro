@@ -10,3 +10,4 @@ Cotizador de seguro de auto:
 Proyecto con Clases:
 Cotización al instante
 
+![alt text](https://github.com/LucasSoftware12/cotizaSeguro/blob/master/ej.PNG)
